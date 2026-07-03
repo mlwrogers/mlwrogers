@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mlwrogers, you can call me Matt.
-- 👀 I’m interested in APIs, communcation, tech and mountain bikes. 
+- 👀 I’m interested in APIs, communcation, tech, climbing/bouldering, snowboards & mountain bikes. 
 
 <!---
 mlwrogers/mlwrogers is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
